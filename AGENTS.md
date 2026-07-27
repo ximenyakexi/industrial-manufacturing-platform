@@ -10,7 +10,7 @@ All equipment and production data are simulated.
 
 ## Repository structure
 
-- `plc/` — Rockwell CCW and later Siemens PLC learning files
+- `plc/` — Rockwell CCW and later Siemens PLC files
 - `ignition/` — Ignition exports, scripts, and documentation
 - `database/` — SQL Server migrations, seed data, and queries
 - `backend/` — .NET 10 backend API and Worker Services
